@@ -9,7 +9,6 @@ using std::cin;
 using std::endl;
 using std::string;
 
-// --- Constantes de precios de videojuegos ---
 const int PRECIO_JUEGO_1 = 81000;
 const int PRECIO_JUEGO_2 = 150000;
 const int PRECIO_JUEGO_3 = 100000;
